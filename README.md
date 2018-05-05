@@ -6,6 +6,7 @@
 * [Double Hashing](https://github.com/TonPC64/DoubleHashing)
 * [Insertion Sort](https://github.com/TonPC64/insertion_sort)
 * [Quick Sort](https://github.com/TonPC64/QuickSort)
+* [Sorting](https://github.com/TonPC64/insertion-and-quicksort)
 
 ## From
 
